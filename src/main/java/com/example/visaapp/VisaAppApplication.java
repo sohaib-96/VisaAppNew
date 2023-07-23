@@ -9,6 +9,7 @@ public class VisaAppApplication {
     public static void main(String[] args) {
         SpringApplication.run(VisaAppApplication.class, args);
         System.out.println("Hello World! 123465");
+        System.out.println("Hello World!");
     }
 
 }
