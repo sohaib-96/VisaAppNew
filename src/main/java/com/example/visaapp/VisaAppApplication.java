@@ -63,7 +63,7 @@ public class VisaAppApplication {
 
         final String fromEmail = props.getProperty("from.email");
         final String password = props.getProperty("fromPs");
-        final String toEmail = props.getProperty("from.email");
+        final String toEmail = props.getProperty("to.email");
 
         System.out.println("TLSEmail Start");
 
